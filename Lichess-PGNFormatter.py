@@ -7,7 +7,7 @@ from lichess.format import SINGLE_PGN
 from datetime import datetime
 import re
 
-User = 'RestaurantB'
+User = 'YourUsernameHere'
 
 DATET = datetime.now()
 now = DATET.strftime("%m.%d.%Y %H;%M;%S")
