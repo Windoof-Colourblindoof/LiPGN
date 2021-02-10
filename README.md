@@ -1,4 +1,4 @@
-# Lichess-PGNFormatter
+# LiPGN
 Simple Python-Script for scraping and formatting the last Game as a PGN-File of a User.
 For selecting a user, follow these steps:
 [Requirement: Python 3.7 or later]
